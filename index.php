@@ -11,7 +11,7 @@
             color: blue;
             font-size: 100px;
             text-align: center;
-            padding-top: 200px; /* Немного отступаем сверху, чтобы текст был посередине экрана */
+            padding-top: 200px; 
         }
     </style>
 </head>
