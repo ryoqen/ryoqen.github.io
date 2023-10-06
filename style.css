@@ -1,0 +1,41 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color:aquamarine;
+    font-size: 80px;
+}
+
+label {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 50px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+button {
+    padding: 10px 25px;
+    font-size: 20px;
+}
+
+#squareContainer {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.square {
+    border: solid 5px;
+    width: 159px;
+    height: 159px;
+    margin: 10px;
+    background-image: url(https://images.genius.com/583f483484b807e45d78e9119f86060d.1000x1000x1.png);
+    background-size: cover;
+}
